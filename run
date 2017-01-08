@@ -1,3 +1,5 @@
+
+cd /tmp
 sudo wget https://github.com/godziesz/pi/blob/master/local_realism
 sh local_realism
 sudo rm local_realism
