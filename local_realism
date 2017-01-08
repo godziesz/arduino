@@ -1,1 +1,4 @@
-echo "local_realism"
+echo "War"
+sleep 2
+echo "war never changes..."
+sleep 7
