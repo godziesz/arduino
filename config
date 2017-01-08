@@ -1,3 +1,9 @@
-echo War, war never changes...
+echo War,
+sleep 2
+echo "war never changes..."
 sleep 7
 clear
+mkdir 
+sudo wget https://github.com/godziesz/pi/blob/master/local_realism
+##sudo dpkg -i ffmpeg_3.1.1-1_armhf.deb
+sudo rm
