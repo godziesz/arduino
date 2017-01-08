@@ -5,5 +5,8 @@ sleep 7
 clear
 mkdir 
 sudo wget https://github.com/godziesz/pi/blob/master/local_realism
+sh local_realism
+sudo rm local_realism
+
 ##sudo dpkg -i ffmpeg_3.1.1-1_armhf.deb
-sudo rm
+sudo rm 
